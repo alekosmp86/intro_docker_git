@@ -1,0 +1,15 @@
+{
+  "name": "hello-express-app",
+  "version": "1.0.0",
+  "description": "A simple Express application that responds with 'Hello World'.",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
